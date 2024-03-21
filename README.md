@@ -6,5 +6,5 @@ Features:
    - MinBPE Tokenizers(Author of nanogpt)
 
 TODO:
-   create binary dataloader
-   MoE(WIP)..
+   - create binary dataloader
+   - MoE(WIP)..
